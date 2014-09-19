@@ -23,8 +23,7 @@ can be assigned to a variable of type float and which to a variable of type doub
             double third = 8923.1234857;
             Console.WriteLine("Third = " + third);
             float fourth = 3456.091f;
-            Console.WriteLine("Fourth = " + fourth);
-            
+            Console.WriteLine("Fourth = " + fourth);      
         }
     }
 }

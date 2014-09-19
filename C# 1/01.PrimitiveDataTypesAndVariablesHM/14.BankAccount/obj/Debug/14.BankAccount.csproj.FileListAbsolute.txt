@@ -3,3 +3,6 @@ D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveD
 D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\14.BankAccount\bin\Debug\14.BankAccount.pdb
 D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\14.BankAccount\obj\Debug\14.BankAccount.exe
 D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\14.BankAccount\obj\Debug\14.BankAccount.pdb
+D:\01.Телерик Академи\02.Summer\.Net-framework\C# 1\01.PrimitiveDataTypesAndVariablesHM\14.BankAccount\bin\Debug\14.BankAccount.exe.config
+D:\01.Телерик Академи\02.Summer\.Net-framework\C# 1\01.PrimitiveDataTypesAndVariablesHM\14.BankAccount\obj\Debug\14.BankAccount.exe
+D:\01.Телерик Академи\02.Summer\.Net-framework\C# 1\01.PrimitiveDataTypesAndVariablesHM\14.BankAccount\obj\Debug\14.BankAccount.pdb
