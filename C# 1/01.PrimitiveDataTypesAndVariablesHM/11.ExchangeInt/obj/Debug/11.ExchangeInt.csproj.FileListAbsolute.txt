@@ -1,0 +1,5 @@
+D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\11.ExchangeInt\bin\Debug\11.ExchangeInt.exe.config
+D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\11.ExchangeInt\bin\Debug\11.ExchangeInt.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\11.ExchangeInt\bin\Debug\11.ExchangeInt.pdb
+D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\11.ExchangeInt\obj\Debug\11.ExchangeInt.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\11.ExchangeInt\obj\Debug\11.ExchangeInt.pdb

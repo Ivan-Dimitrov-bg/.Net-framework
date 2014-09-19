@@ -1,0 +1,6 @@
+D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\1.FiveVariables\bin\Debug\1.FiveVariables.exe.config
+D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\1.FiveVariables\bin\Debug\1.FiveVariables.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\1.FiveVariables\bin\Debug\1.FiveVariables.pdb
+D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\1.FiveVariables\obj\Debug\1.FiveVariables.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\1.FiveVariables\obj\Debug\1.FiveVariables.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\1.FiveVariables\obj\Debug\1.FiveVariables.pdb
