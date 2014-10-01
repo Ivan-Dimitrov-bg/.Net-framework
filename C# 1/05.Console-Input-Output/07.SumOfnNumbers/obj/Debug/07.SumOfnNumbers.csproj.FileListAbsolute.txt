@@ -1,0 +1,6 @@
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\07.SumOfnNumbers\bin\Debug\07.SumOfnNumbers.exe.config
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\07.SumOfnNumbers\bin\Debug\07.SumOfnNumbers.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\07.SumOfnNumbers\bin\Debug\07.SumOfnNumbers.pdb
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\07.SumOfnNumbers\obj\Debug\07.SumOfnNumbers.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\07.SumOfnNumbers\obj\Debug\07.SumOfnNumbers.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\07.SumOfnNumbers\obj\Debug\07.SumOfnNumbers.pdb

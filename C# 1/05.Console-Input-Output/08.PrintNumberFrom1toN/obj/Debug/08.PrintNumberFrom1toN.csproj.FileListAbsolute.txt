@@ -1,0 +1,6 @@
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\08.PrintNumberFrom1toN\bin\Debug\08.PrintNumberFrom1toN.exe.config
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\08.PrintNumberFrom1toN\bin\Debug\08.PrintNumberFrom1toN.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\08.PrintNumberFrom1toN\bin\Debug\08.PrintNumberFrom1toN.pdb
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\08.PrintNumberFrom1toN\obj\Debug\08.PrintNumberFrom1toN.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\08.PrintNumberFrom1toN\obj\Debug\08.PrintNumberFrom1toN.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\08.PrintNumberFrom1toN\obj\Debug\08.PrintNumberFrom1toN.pdb

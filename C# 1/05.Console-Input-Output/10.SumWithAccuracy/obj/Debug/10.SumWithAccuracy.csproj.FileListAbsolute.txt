@@ -1,0 +1,6 @@
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\10.SumWithAccuracy\bin\Debug\10.SumWithAccuracy.exe.config
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\10.SumWithAccuracy\bin\Debug\10.SumWithAccuracy.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\10.SumWithAccuracy\bin\Debug\10.SumWithAccuracy.pdb
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\10.SumWithAccuracy\obj\Debug\10.SumWithAccuracy.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\10.SumWithAccuracy\obj\Debug\10.SumWithAccuracy.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\10.SumWithAccuracy\obj\Debug\10.SumWithAccuracy.pdb

@@ -1,0 +1,5 @@
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\09.FibonacciFirst100Membars\bin\Debug\09.FibonacciFirst100Membars.exe.config
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\09.FibonacciFirst100Membars\bin\Debug\09.FibonacciFirst100Membars.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\09.FibonacciFirst100Membars\bin\Debug\09.FibonacciFirst100Membars.pdb
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\09.FibonacciFirst100Membars\obj\Debug\09.FibonacciFirst100Membars.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\09.FibonacciFirst100Membars\obj\Debug\09.FibonacciFirst100Membars.pdb
