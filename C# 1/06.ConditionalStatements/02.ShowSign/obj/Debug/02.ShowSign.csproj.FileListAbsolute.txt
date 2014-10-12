@@ -1,0 +1,5 @@
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\06.ConditionalStatements\02.ShowSign\bin\Debug\02.ShowSign.exe.config
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\06.ConditionalStatements\02.ShowSign\bin\Debug\02.ShowSign.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\06.ConditionalStatements\02.ShowSign\bin\Debug\02.ShowSign.pdb
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\06.ConditionalStatements\02.ShowSign\obj\Debug\02.ShowSign.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\06.ConditionalStatements\02.ShowSign\obj\Debug\02.ShowSign.pdb
