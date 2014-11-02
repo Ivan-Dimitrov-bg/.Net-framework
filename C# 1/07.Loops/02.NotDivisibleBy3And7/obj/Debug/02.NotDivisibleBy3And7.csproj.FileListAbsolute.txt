@@ -1,0 +1,6 @@
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\07.Loops\02.NotDivisibleBy3And7\bin\Debug\02.NotDivisibleBy3And7.exe.config
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\07.Loops\02.NotDivisibleBy3And7\bin\Debug\02.NotDivisibleBy3And7.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\07.Loops\02.NotDivisibleBy3And7\bin\Debug\02.NotDivisibleBy3And7.pdb
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\07.Loops\02.NotDivisibleBy3And7\obj\Debug\02.NotDivisibleBy3And7.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\07.Loops\02.NotDivisibleBy3And7\obj\Debug\02.NotDivisibleBy3And7.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\07.Loops\02.NotDivisibleBy3And7\obj\Debug\02.NotDivisibleBy3And7.pdb

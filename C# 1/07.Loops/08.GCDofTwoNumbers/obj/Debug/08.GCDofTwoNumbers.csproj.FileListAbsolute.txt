@@ -1,0 +1,6 @@
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\07.Loops\08.GCDofTwoNumbers\bin\Debug\08.GCDofTwoNumbers.exe.config
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\07.Loops\08.GCDofTwoNumbers\obj\Debug\08.GCDofTwoNumbers.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\07.Loops\08.GCDofTwoNumbers\bin\Debug\08.GCDofTwoNumbers.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\07.Loops\08.GCDofTwoNumbers\bin\Debug\08.GCDofTwoNumbers.pdb
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\07.Loops\08.GCDofTwoNumbers\obj\Debug\08.GCDofTwoNumbers.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\07.Loops\08.GCDofTwoNumbers\obj\Debug\08.GCDofTwoNumbers.pdb
