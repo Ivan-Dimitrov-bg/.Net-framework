@@ -1,0 +1,5 @@
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\02.ComparesArray\bin\Debug\02.ComparesArray.exe.config
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\02.ComparesArray\bin\Debug\02.ComparesArray.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\02.ComparesArray\bin\Debug\02.ComparesArray.pdb
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\02.ComparesArray\obj\Debug\02.ComparesArray.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\02.ComparesArray\obj\Debug\02.ComparesArray.pdb

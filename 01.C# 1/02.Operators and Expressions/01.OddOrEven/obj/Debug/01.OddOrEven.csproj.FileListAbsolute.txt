@@ -1,0 +1,6 @@
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\02.Operators and Expressions\01.OddOrEven\bin\Debug\01.OddOrEven.exe.config
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\02.Operators and Expressions\01.OddOrEven\bin\Debug\01.OddOrEven.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\02.Operators and Expressions\01.OddOrEven\bin\Debug\01.OddOrEven.pdb
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\02.Operators and Expressions\01.OddOrEven\obj\Debug\01.OddOrEven.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\02.Operators and Expressions\01.OddOrEven\obj\Debug\01.OddOrEven.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\02.Operators and Expressions\01.OddOrEven\obj\Debug\01.OddOrEven.pdb

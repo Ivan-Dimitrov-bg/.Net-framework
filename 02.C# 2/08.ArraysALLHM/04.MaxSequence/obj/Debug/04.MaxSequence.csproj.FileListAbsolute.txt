@@ -1,0 +1,6 @@
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\04.MaxSequence\bin\Debug\04.MaxSequence.exe.config
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\04.MaxSequence\bin\Debug\04.MaxSequence.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\04.MaxSequence\bin\Debug\04.MaxSequence.pdb
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\04.MaxSequence\obj\Debug\04.MaxSequence.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\04.MaxSequence\obj\Debug\04.MaxSequence.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\04.MaxSequence\obj\Debug\04.MaxSequence.pdb

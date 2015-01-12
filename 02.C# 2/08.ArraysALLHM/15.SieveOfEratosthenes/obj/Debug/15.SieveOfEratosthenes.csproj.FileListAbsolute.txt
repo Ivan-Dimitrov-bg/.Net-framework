@@ -1,0 +1,6 @@
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\15.SieveOfEratosthenes\bin\Debug\15.SieveOfEratosthenes.exe.config
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\15.SieveOfEratosthenes\bin\Debug\15.SieveOfEratosthenes.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\15.SieveOfEratosthenes\bin\Debug\15.SieveOfEratosthenes.pdb
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\15.SieveOfEratosthenes\obj\Debug\15.SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\15.SieveOfEratosthenes\obj\Debug\15.SieveOfEratosthenes.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\15.SieveOfEratosthenes\obj\Debug\15.SieveOfEratosthenes.pdb

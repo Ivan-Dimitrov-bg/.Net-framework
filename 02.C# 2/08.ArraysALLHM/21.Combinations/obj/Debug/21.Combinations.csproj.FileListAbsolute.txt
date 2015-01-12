@@ -1,0 +1,5 @@
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\21.Combinations\bin\Debug\21.Combinations.exe.config
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\21.Combinations\bin\Debug\21.Combinations.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\21.Combinations\bin\Debug\21.Combinations.pdb
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\21.Combinations\obj\Debug\21.Combinations.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\21.Combinations\obj\Debug\21.Combinations.pdb

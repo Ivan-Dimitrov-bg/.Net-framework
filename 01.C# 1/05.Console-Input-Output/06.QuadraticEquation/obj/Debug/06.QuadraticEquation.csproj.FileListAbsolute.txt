@@ -1,0 +1,6 @@
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.csprojResolveAssemblyReference.cache

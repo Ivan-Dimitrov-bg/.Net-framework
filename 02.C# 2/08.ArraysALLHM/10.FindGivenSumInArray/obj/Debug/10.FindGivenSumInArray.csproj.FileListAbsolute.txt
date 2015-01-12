@@ -1,0 +1,6 @@
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\10.FindGivenSumInArray\bin\Debug\10.FindGivenSumInArray.exe.config
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\10.FindGivenSumInArray\bin\Debug\10.FindGivenSumInArray.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\10.FindGivenSumInArray\bin\Debug\10.FindGivenSumInArray.pdb
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\10.FindGivenSumInArray\obj\Debug\10.FindGivenSumInArray.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\10.FindGivenSumInArray\obj\Debug\10.FindGivenSumInArray.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\10.FindGivenSumInArray\obj\Debug\10.FindGivenSumInArray.pdb

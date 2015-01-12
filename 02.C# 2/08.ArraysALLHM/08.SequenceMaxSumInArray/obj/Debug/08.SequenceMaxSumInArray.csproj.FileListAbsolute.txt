@@ -1,0 +1,5 @@
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\08.SequenceMaxSumInArray\bin\Debug\08.SequenceMaxSumInArray.exe.config
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\08.SequenceMaxSumInArray\bin\Debug\08.SequenceMaxSumInArray.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\08.SequenceMaxSumInArray\bin\Debug\08.SequenceMaxSumInArray.pdb
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\08.SequenceMaxSumInArray\obj\Debug\08.SequenceMaxSumInArray.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\08.ArraysALLHM\08.SequenceMaxSumInArray\obj\Debug\08.SequenceMaxSumInArray.pdb
