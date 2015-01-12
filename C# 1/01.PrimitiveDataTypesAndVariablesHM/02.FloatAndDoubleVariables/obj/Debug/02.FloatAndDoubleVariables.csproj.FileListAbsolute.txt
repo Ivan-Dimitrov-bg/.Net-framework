@@ -1,9 +1,0 @@
-D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\02.FloatAndDoubleVariables\bin\Debug\02.FloatAndDoubleVariables.exe.config
-D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\02.FloatAndDoubleVariables\bin\Debug\02.FloatAndDoubleVariables.exe
-D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\02.FloatAndDoubleVariables\bin\Debug\02.FloatAndDoubleVariables.pdb
-D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\02.FloatAndDoubleVariables\obj\Debug\02.FloatAndDoubleVariables.csprojResolveAssemblyReference.cache
-D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\02.FloatAndDoubleVariables\obj\Debug\02.FloatAndDoubleVariables.exe
-D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\02.FloatAndDoubleVariables\obj\Debug\02.FloatAndDoubleVariables.pdb
-D:\01.Телерик Академи\02.Summer\.Net-framework\C# 1\01.PrimitiveDataTypesAndVariablesHM\02.FloatAndDoubleVariables\bin\Debug\02.FloatAndDoubleVariables.exe.config
-D:\01.Телерик Академи\02.Summer\.Net-framework\C# 1\01.PrimitiveDataTypesAndVariablesHM\02.FloatAndDoubleVariables\obj\Debug\02.FloatAndDoubleVariables.exe
-D:\01.Телерик Академи\02.Summer\.Net-framework\C# 1\01.PrimitiveDataTypesAndVariablesHM\02.FloatAndDoubleVariables\obj\Debug\02.FloatAndDoubleVariables.pdb
