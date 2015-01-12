@@ -1,0 +1,8 @@
+D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\06.BooleanVariableIsFemale\bin\Debug\06.BooleanVariableIsFemale.exe.config
+D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\06.BooleanVariableIsFemale\bin\Debug\06.BooleanVariableIsFemale.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\06.BooleanVariableIsFemale\bin\Debug\06.BooleanVariableIsFemale.pdb
+D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\06.BooleanVariableIsFemale\obj\Debug\06.BooleanVariableIsFemale.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\06.BooleanVariableIsFemale\obj\Debug\06.BooleanVariableIsFemale.pdb
+D:\01.Телерик Академи\02.Summer\.Net-framework\C# 1\01.PrimitiveDataTypesAndVariablesHM\06.BooleanVariableIsFemale\bin\Debug\06.BooleanVariableIsFemale.exe.config
+D:\01.Телерик Академи\02.Summer\.Net-framework\C# 1\01.PrimitiveDataTypesAndVariablesHM\06.BooleanVariableIsFemale\obj\Debug\06.BooleanVariableIsFemale.exe
+D:\01.Телерик Академи\02.Summer\.Net-framework\C# 1\01.PrimitiveDataTypesAndVariablesHM\06.BooleanVariableIsFemale\obj\Debug\06.BooleanVariableIsFemale.pdb

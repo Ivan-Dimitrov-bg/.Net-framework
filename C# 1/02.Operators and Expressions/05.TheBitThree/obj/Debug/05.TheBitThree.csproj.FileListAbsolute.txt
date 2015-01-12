@@ -1,0 +1,5 @@
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\02.Operators and Expressions\05.TheBitThree\bin\Debug\05.TheBitThree.exe.config
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\02.Operators and Expressions\05.TheBitThree\bin\Debug\05.TheBitThree.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\02.Operators and Expressions\05.TheBitThree\bin\Debug\05.TheBitThree.pdb
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\02.Operators and Expressions\05.TheBitThree\obj\Debug\05.TheBitThree.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\02.Operators and Expressions\05.TheBitThree\obj\Debug\05.TheBitThree.pdb

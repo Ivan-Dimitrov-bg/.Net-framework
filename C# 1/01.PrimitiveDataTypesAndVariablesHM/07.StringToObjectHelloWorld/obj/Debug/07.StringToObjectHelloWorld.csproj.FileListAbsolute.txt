@@ -1,0 +1,8 @@
+D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\07.StringToObjectHelloWorld\bin\Debug\07.StringToObjectHelloWorld.exe.config
+D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\07.StringToObjectHelloWorld\bin\Debug\07.StringToObjectHelloWorld.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\07.StringToObjectHelloWorld\bin\Debug\07.StringToObjectHelloWorld.pdb
+D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\07.StringToObjectHelloWorld\obj\Debug\07.StringToObjectHelloWorld.exe
+D:\01.Телерик Академи\02.Summer\01.CSharp1\Exercise C#1\PrimitiveDataTypesAndVariablesDemos\07.StringToObjectHelloWorld\obj\Debug\07.StringToObjectHelloWorld.pdb
+D:\01.Телерик Академи\02.Summer\.Net-framework\C# 1\01.PrimitiveDataTypesAndVariablesHM\07.StringToObjectHelloWorld\bin\Debug\07.StringToObjectHelloWorld.exe.config
+D:\01.Телерик Академи\02.Summer\.Net-framework\C# 1\01.PrimitiveDataTypesAndVariablesHM\07.StringToObjectHelloWorld\obj\Debug\07.StringToObjectHelloWorld.exe
+D:\01.Телерик Академи\02.Summer\.Net-framework\C# 1\01.PrimitiveDataTypesAndVariablesHM\07.StringToObjectHelloWorld\obj\Debug\07.StringToObjectHelloWorld.pdb
