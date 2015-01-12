@@ -1,6 +1,0 @@
-D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\03.PringInfoAboutCompany\bin\Debug\03.PringInfoAboutCompany.exe.config
-D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\03.PringInfoAboutCompany\bin\Debug\03.PringInfoAboutCompany.exe
-D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\03.PringInfoAboutCompany\bin\Debug\03.PringInfoAboutCompany.pdb
-D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\03.PringInfoAboutCompany\obj\Debug\03.PringInfoAboutCompany.csprojResolveAssemblyReference.cache
-D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\03.PringInfoAboutCompany\obj\Debug\03.PringInfoAboutCompany.exe
-D:\01.Телерик Академи\02.Summer\01.CSharp1\HM C#1\05.Console-Input-Output\03.PringInfoAboutCompany\obj\Debug\03.PringInfoAboutCompany.pdb
