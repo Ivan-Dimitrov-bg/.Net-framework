@@ -1,0 +1,6 @@
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\09.MultidimensionalArrays\01.PrintMatrixA\bin\Debug\01.PrintMatrixA.exe.config
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\09.MultidimensionalArrays\01.PrintMatrixA\bin\Debug\01.PrintMatrixA.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\09.MultidimensionalArrays\01.PrintMatrixA\bin\Debug\01.PrintMatrixA.pdb
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\09.MultidimensionalArrays\01.PrintMatrixA\obj\Debug\01.PrintMatrixA.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\09.MultidimensionalArrays\01.PrintMatrixA\obj\Debug\01.PrintMatrixA.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\09.MultidimensionalArrays\01.PrintMatrixA\obj\Debug\01.PrintMatrixA.pdb

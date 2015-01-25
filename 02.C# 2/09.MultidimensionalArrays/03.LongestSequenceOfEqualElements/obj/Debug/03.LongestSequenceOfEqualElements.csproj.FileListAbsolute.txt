@@ -1,0 +1,5 @@
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\09.MultidimensionalArrays\03.LongestSequenceOfEqualElements\bin\Debug\03.LongestSequenceOfEqualElements.exe.config
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\09.MultidimensionalArrays\03.LongestSequenceOfEqualElements\bin\Debug\03.LongestSequenceOfEqualElements.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\09.MultidimensionalArrays\03.LongestSequenceOfEqualElements\bin\Debug\03.LongestSequenceOfEqualElements.pdb
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\09.MultidimensionalArrays\03.LongestSequenceOfEqualElements\obj\Debug\03.LongestSequenceOfEqualElements.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\09.MultidimensionalArrays\03.LongestSequenceOfEqualElements\obj\Debug\03.LongestSequenceOfEqualElements.pdb

@@ -1,0 +1,6 @@
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\09.MultidimensionalArrays\02.MaxSumOf Square3x3\bin\Debug\02.MaxSumOf Square3x3.exe.config
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\09.MultidimensionalArrays\02.MaxSumOf Square3x3\bin\Debug\02.MaxSumOf Square3x3.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\09.MultidimensionalArrays\02.MaxSumOf Square3x3\bin\Debug\02.MaxSumOf Square3x3.pdb
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\09.MultidimensionalArrays\02.MaxSumOf Square3x3\obj\Debug\02.MaxSumOfSquare3x3.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\09.MultidimensionalArrays\02.MaxSumOf Square3x3\obj\Debug\02.MaxSumOf Square3x3.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\09.MultidimensionalArrays\02.MaxSumOf Square3x3\obj\Debug\02.MaxSumOf Square3x3.pdb

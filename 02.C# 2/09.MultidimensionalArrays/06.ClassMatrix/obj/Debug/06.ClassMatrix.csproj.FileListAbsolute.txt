@@ -1,0 +1,6 @@
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\09.MultidimensionalArrays\06.ClassMatrix\bin\Debug\06.ClassMatrix.exe.config
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\09.MultidimensionalArrays\06.ClassMatrix\bin\Debug\06.ClassMatrix.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\09.MultidimensionalArrays\06.ClassMatrix\bin\Debug\06.ClassMatrix.pdb
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\09.MultidimensionalArrays\06.ClassMatrix\obj\Debug\06.ClassMatrix.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\09.MultidimensionalArrays\06.ClassMatrix\obj\Debug\06.ClassMatrix.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\09.MultidimensionalArrays\06.ClassMatrix\obj\Debug\06.ClassMatrix.pdb
