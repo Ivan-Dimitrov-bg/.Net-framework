@@ -1,0 +1,6 @@
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\12.UsingClassesАndObjects\05.WorkdaysBetweenDates\bin\Debug\05.WorkdaysBetweenDates.exe.config
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\12.UsingClassesАndObjects\05.WorkdaysBetweenDates\bin\Debug\05.WorkdaysBetweenDates.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\12.UsingClassesАndObjects\05.WorkdaysBetweenDates\bin\Debug\05.WorkdaysBetweenDates.pdb
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\12.UsingClassesАndObjects\05.WorkdaysBetweenDates\obj\Debug\05.WorkdaysBetweenDates.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\12.UsingClassesАndObjects\05.WorkdaysBetweenDates\obj\Debug\05.WorkdaysBetweenDates.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\12.UsingClassesАndObjects\05.WorkdaysBetweenDates\obj\Debug\05.WorkdaysBetweenDates.pdb

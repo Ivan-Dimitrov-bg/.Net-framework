@@ -1,0 +1,6 @@
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\10.Methods\10.Methods\08.ReversesNumber\bin\Debug\08.ReversesNumber.exe.config
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\10.Methods\10.Methods\08.ReversesNumber\bin\Debug\08.ReversesNumber.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\10.Methods\10.Methods\08.ReversesNumber\bin\Debug\08.ReversesNumber.pdb
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\10.Methods\10.Methods\08.ReversesNumber\obj\Debug\08.ReversesNumber.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\10.Methods\10.Methods\08.ReversesNumber\obj\Debug\08.ReversesNumber.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\10.Methods\10.Methods\08.ReversesNumber\obj\Debug\08.ReversesNumber.pdb

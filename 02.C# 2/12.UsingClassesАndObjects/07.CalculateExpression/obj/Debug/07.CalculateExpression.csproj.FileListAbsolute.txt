@@ -1,0 +1,3 @@
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\12.UsingClassesАndObjects\07.CalculateExpression\bin\Debug\07.CalculateExpression.exe.config
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\12.UsingClassesАndObjects\07.CalculateExpression\obj\Debug\07.CalculateExpression.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\12.UsingClassesАndObjects\07.CalculateExpression\obj\Debug\07.CalculateExpression.pdb

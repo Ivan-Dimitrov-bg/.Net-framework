@@ -1,0 +1,5 @@
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\10.Methods\10.Methods\02.GetMax\bin\Debug\02.GetMax.exe.config
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\10.Methods\10.Methods\02.GetMax\bin\Debug\02.GetMax.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\10.Methods\10.Methods\02.GetMax\bin\Debug\02.GetMax.pdb
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\10.Methods\10.Methods\02.GetMax\obj\Debug\02.GetMax.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\10.Methods\10.Methods\02.GetMax\obj\Debug\02.GetMax.pdb

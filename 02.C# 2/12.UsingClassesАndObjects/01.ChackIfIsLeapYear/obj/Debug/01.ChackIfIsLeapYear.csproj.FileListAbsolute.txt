@@ -1,0 +1,6 @@
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\12.UsingClassesАndObjects\01.ChackIfIsLeapYear\bin\Debug\01.ChackIfIsLeapYear.exe.config
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\12.UsingClassesАndObjects\01.ChackIfIsLeapYear\bin\Debug\01.ChackIfIsLeapYear.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\12.UsingClassesАndObjects\01.ChackIfIsLeapYear\bin\Debug\01.ChackIfIsLeapYear.pdb
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\12.UsingClassesАndObjects\01.ChackIfIsLeapYear\obj\Debug\01.ChackIfIsLeapYear.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\12.UsingClassesАndObjects\01.ChackIfIsLeapYear\obj\Debug\01.ChackIfIsLeapYear.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\12.UsingClassesАndObjects\01.ChackIfIsLeapYear\obj\Debug\01.ChackIfIsLeapYear.pdb

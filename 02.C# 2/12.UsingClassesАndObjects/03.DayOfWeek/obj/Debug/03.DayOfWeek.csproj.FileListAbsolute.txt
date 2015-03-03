@@ -1,0 +1,6 @@
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\12.UsingClassesАndObjects\03.DayOfWeek\bin\Debug\03.DayOfWeek.exe.config
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\12.UsingClassesАndObjects\03.DayOfWeek\bin\Debug\03.DayOfWeek.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\12.UsingClassesАndObjects\03.DayOfWeek\bin\Debug\03.DayOfWeek.pdb
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\12.UsingClassesАndObjects\03.DayOfWeek\obj\Debug\03.DayOfWeek.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\12.UsingClassesАndObjects\03.DayOfWeek\obj\Debug\03.DayOfWeek.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\12.UsingClassesАndObjects\03.DayOfWeek\obj\Debug\03.DayOfWeek.pdb

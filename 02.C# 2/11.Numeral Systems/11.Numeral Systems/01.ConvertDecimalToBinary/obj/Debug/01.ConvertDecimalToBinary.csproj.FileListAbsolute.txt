@@ -1,0 +1,6 @@
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\11.Numeral Systems\11.Numeral Systems\01.ConvertDecimalToBinary\bin\Debug\01.ConvertDecimalToBinary.exe.config
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\11.Numeral Systems\11.Numeral Systems\01.ConvertDecimalToBinary\bin\Debug\01.ConvertDecimalToBinary.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\11.Numeral Systems\11.Numeral Systems\01.ConvertDecimalToBinary\bin\Debug\01.ConvertDecimalToBinary.pdb
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\11.Numeral Systems\11.Numeral Systems\01.ConvertDecimalToBinary\obj\Debug\01.ConvertDecimalToBinary.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\11.Numeral Systems\11.Numeral Systems\01.ConvertDecimalToBinary\obj\Debug\01.ConvertDecimalToBinary.exe
+D:\01.Телерик Академи\02.Summer\02.Csharp2\HM C#2\11.Numeral Systems\11.Numeral Systems\01.ConvertDecimalToBinary\obj\Debug\01.ConvertDecimalToBinary.pdb
