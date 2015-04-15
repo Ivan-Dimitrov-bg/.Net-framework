@@ -1,0 +1,6 @@
+D:\01.Телерик Академи\02.Summer\.Net-framework\02.C# 2\13.TextFiles\TextFiles\03.InsertLineNumbers\bin\Debug\03.InsertLineNumbers.exe.config
+D:\01.Телерик Академи\02.Summer\.Net-framework\02.C# 2\13.TextFiles\TextFiles\03.InsertLineNumbers\bin\Debug\03.InsertLineNumbers.exe
+D:\01.Телерик Академи\02.Summer\.Net-framework\02.C# 2\13.TextFiles\TextFiles\03.InsertLineNumbers\bin\Debug\03.InsertLineNumbers.pdb
+D:\01.Телерик Академи\02.Summer\.Net-framework\02.C# 2\13.TextFiles\TextFiles\03.InsertLineNumbers\obj\Debug\03.InsertLineNumbers.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\02.Summer\.Net-framework\02.C# 2\13.TextFiles\TextFiles\03.InsertLineNumbers\obj\Debug\03.InsertLineNumbers.exe
+D:\01.Телерик Академи\02.Summer\.Net-framework\02.C# 2\13.TextFiles\TextFiles\03.InsertLineNumbers\obj\Debug\03.InsertLineNumbers.pdb

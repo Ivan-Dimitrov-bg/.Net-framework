@@ -1,0 +1,6 @@
+D:\01.Телерик Академи\02.Summer\.Net-framework\02.C# 2\13.TextFiles\TextFiles\02.ConcatenatesTwoFile\bin\Debug\02.ConcatenatesTwoFile.exe.config
+D:\01.Телерик Академи\02.Summer\.Net-framework\02.C# 2\13.TextFiles\TextFiles\02.ConcatenatesTwoFile\bin\Debug\02.ConcatenatesTwoFile.exe
+D:\01.Телерик Академи\02.Summer\.Net-framework\02.C# 2\13.TextFiles\TextFiles\02.ConcatenatesTwoFile\bin\Debug\02.ConcatenatesTwoFile.pdb
+D:\01.Телерик Академи\02.Summer\.Net-framework\02.C# 2\13.TextFiles\TextFiles\02.ConcatenatesTwoFile\obj\Debug\02.ConcatenatesTwoFile.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\02.Summer\.Net-framework\02.C# 2\13.TextFiles\TextFiles\02.ConcatenatesTwoFile\obj\Debug\02.ConcatenatesTwoFile.exe
+D:\01.Телерик Академи\02.Summer\.Net-framework\02.C# 2\13.TextFiles\TextFiles\02.ConcatenatesTwoFile\obj\Debug\02.ConcatenatesTwoFile.pdb

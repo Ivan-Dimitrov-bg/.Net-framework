@@ -1,0 +1,6 @@
+D:\01.Телерик Академи\02.Summer\.Net-framework\02.C# 2\13.TextFiles\TextFiles\01.PrintOdsLine\bin\Debug\01.PrintOdsLine.exe.config
+D:\01.Телерик Академи\02.Summer\.Net-framework\02.C# 2\13.TextFiles\TextFiles\01.PrintOdsLine\bin\Debug\01.PrintOdsLine.exe
+D:\01.Телерик Академи\02.Summer\.Net-framework\02.C# 2\13.TextFiles\TextFiles\01.PrintOdsLine\bin\Debug\01.PrintOdsLine.pdb
+D:\01.Телерик Академи\02.Summer\.Net-framework\02.C# 2\13.TextFiles\TextFiles\01.PrintOdsLine\obj\Debug\01.PrintOdsLine.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\02.Summer\.Net-framework\02.C# 2\13.TextFiles\TextFiles\01.PrintOdsLine\obj\Debug\01.PrintOdsLine.exe
+D:\01.Телерик Академи\02.Summer\.Net-framework\02.C# 2\13.TextFiles\TextFiles\01.PrintOdsLine\obj\Debug\01.PrintOdsLine.pdb

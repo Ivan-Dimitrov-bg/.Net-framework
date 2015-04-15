@@ -1,0 +1,5 @@
+D:\01.Телерик Академи\02.Summer\.Net-framework\02.C# 2\13.TextFiles\TextFiles\06.SorflistOfStrings\bin\Debug\06.SorflistOfStrings.exe.config
+D:\01.Телерик Академи\02.Summer\.Net-framework\02.C# 2\13.TextFiles\TextFiles\06.SorflistOfStrings\bin\Debug\06.SorflistOfStrings.exe
+D:\01.Телерик Академи\02.Summer\.Net-framework\02.C# 2\13.TextFiles\TextFiles\06.SorflistOfStrings\bin\Debug\06.SorflistOfStrings.pdb
+D:\01.Телерик Академи\02.Summer\.Net-framework\02.C# 2\13.TextFiles\TextFiles\06.SorflistOfStrings\obj\Debug\06.SorflistOfStrings.exe
+D:\01.Телерик Академи\02.Summer\.Net-framework\02.C# 2\13.TextFiles\TextFiles\06.SorflistOfStrings\obj\Debug\06.SorflistOfStrings.pdb
