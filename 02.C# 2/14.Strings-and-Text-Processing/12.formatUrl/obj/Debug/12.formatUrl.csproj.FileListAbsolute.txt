@@ -1,4 +1,0 @@
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\12.formatUrl\bin\Debug\12.formatUrl.exe
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\12.formatUrl\bin\Debug\12.formatUrl.pdb
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\12.formatUrl\obj\Debug\12.formatUrl.exe
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\12.formatUrl\obj\Debug\12.formatUrl.pdb

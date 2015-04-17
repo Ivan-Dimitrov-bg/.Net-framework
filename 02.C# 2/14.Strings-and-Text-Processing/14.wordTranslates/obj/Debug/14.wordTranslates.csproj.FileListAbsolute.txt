@@ -1,4 +1,0 @@
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\14.wordTranslates\bin\Debug\14.wordTranslates.exe
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\14.wordTranslates\bin\Debug\14.wordTranslates.pdb
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\14.wordTranslates\obj\Debug\14.wordTranslates.exe
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\14.wordTranslates\obj\Debug\14.wordTranslates.pdb

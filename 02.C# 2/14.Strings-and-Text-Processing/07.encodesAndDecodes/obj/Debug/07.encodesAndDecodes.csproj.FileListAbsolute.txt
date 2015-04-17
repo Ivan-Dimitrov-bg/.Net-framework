@@ -1,4 +1,0 @@
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\07.encodesAndDecodes\bin\Debug\07.encodesAndDecodes.exe
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\07.encodesAndDecodes\bin\Debug\07.encodesAndDecodes.pdb
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\07.encodesAndDecodes\obj\Debug\07.encodesAndDecodes.exe
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\07.encodesAndDecodes\obj\Debug\07.encodesAndDecodes.pdb

@@ -1,4 +1,0 @@
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\11.numberAsdiferentTypes\bin\Debug\11.numberAsdiferentTypes.exe
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\11.numberAsdiferentTypes\bin\Debug\11.numberAsdiferentTypes.pdb
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\11.numberAsdiferentTypes\obj\Debug\11.numberAsdiferentTypes.exe
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\11.numberAsdiferentTypes\obj\Debug\11.numberAsdiferentTypes.pdb

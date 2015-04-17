@@ -1,4 +1,0 @@
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\22.howManyTimesWordIsFound\bin\Debug\22.howManyTimesWordIsFound.exe
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\22.howManyTimesWordIsFound\bin\Debug\22.howManyTimesWordIsFound.pdb
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\22.howManyTimesWordIsFound\obj\Debug\22.howManyTimesWordIsFound.exe
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\22.howManyTimesWordIsFound\obj\Debug\22.howManyTimesWordIsFound.pdb

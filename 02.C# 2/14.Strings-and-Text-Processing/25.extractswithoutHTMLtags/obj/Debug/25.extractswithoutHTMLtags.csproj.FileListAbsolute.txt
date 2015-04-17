@@ -1,4 +1,0 @@
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\25.extractswithoutHTMLtags\bin\Debug\25.extractswithoutHTMLtags.exe
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\25.extractswithoutHTMLtags\bin\Debug\25.extractswithoutHTMLtags.pdb
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\25.extractswithoutHTMLtags\obj\Debug\25.extractswithoutHTMLtags.exe
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\25.extractswithoutHTMLtags\obj\Debug\25.extractswithoutHTMLtags.pdb

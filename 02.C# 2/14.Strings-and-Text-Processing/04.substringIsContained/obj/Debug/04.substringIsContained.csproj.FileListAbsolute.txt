@@ -1,5 +1,0 @@
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\04.substringIsContained\bin\Debug\04.substringIsContained.exe
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\04.substringIsContained\bin\Debug\04.substringIsContained.pdb
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\04.substringIsContained\obj\Debug\04.substringIsContained.csprojResolveAssemblyReference.cache
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\04.substringIsContained\obj\Debug\04.substringIsContained.exe
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\04.substringIsContained\obj\Debug\04.substringIsContained.pdb

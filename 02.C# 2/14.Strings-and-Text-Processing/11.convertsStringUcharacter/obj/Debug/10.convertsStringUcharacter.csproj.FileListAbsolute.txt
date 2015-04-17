@@ -1,5 +1,0 @@
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\11.convertsStringUcharacter\bin\Debug\11.convertsStringUcharacter.exe
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\11.convertsStringUcharacter\bin\Debug\11.convertsStringUcharacter.pdb
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\11.convertsStringUcharacter\obj\Debug\10.convertsStringUcharacter.csprojResolveAssemblyReference.cache
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\11.convertsStringUcharacter\obj\Debug\11.convertsStringUcharacter.exe
-D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\11.convertsStringUcharacter\obj\Debug\11.convertsStringUcharacter.pdb
