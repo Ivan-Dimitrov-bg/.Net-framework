@@ -1,0 +1,4 @@
+D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\17.printDateAndTymeAftPeriod\bin\Debug\17.printDateAndTymeAftPeriod.exe
+D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\17.printDateAndTymeAftPeriod\bin\Debug\17.printDateAndTymeAftPeriod.pdb
+D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\17.printDateAndTymeAftPeriod\obj\Debug\17.printDateAndTymeAftPeriod.exe
+D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\17.printDateAndTymeAftPeriod\obj\Debug\17.printDateAndTymeAftPeriod.pdb

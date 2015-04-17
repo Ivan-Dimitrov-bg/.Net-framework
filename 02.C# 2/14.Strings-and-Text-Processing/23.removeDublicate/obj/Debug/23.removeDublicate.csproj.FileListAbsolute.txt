@@ -1,0 +1,4 @@
+D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\23.removeDublicate\bin\Debug\23.removeDublicate.exe
+D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\23.removeDublicate\bin\Debug\23.removeDublicate.pdb
+D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\23.removeDublicate\obj\Debug\23.removeDublicate.exe
+D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\23.removeDublicate\obj\Debug\23.removeDublicate.pdb
