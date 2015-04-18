@@ -1,0 +1,9 @@
+D:\01.Телерик Академи\01.Spring\04.ООП\2014\05.Принципи на ООП - част I\01.OOPPrinciplesPart1\Animals\bin\Debug\Animals.exe.config
+D:\01.Телерик Академи\01.Spring\04.ООП\2014\05.Принципи на ООП - част I\01.OOPPrinciplesPart1\Animals\bin\Debug\Animals.exe
+D:\01.Телерик Академи\01.Spring\04.ООП\2014\05.Принципи на ООП - част I\01.OOPPrinciplesPart1\Animals\bin\Debug\Animals.pdb
+D:\01.Телерик Академи\01.Spring\04.ООП\2014\05.Принципи на ООП - част I\01.OOPPrinciplesPart1\Animals\obj\Debug\03.Animals.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\01.Spring\04.ООП\2014\05.Принципи на ООП - част I\01.OOPPrinciplesPart1\Animals\obj\Debug\Animals.exe
+D:\01.Телерик Академи\01.Spring\04.ООП\2014\05.Принципи на ООП - част I\01.OOPPrinciplesPart1\Animals\obj\Debug\Animals.pdb
+D:\01.Телерик Академи\02.Summer\.Net-framework\03.C# OOP\01.Principles OOP Part 1\Animals\bin\Debug\Animals.exe.config
+D:\01.Телерик Академи\02.Summer\.Net-framework\03.C# OOP\01.Principles OOP Part 1\Animals\obj\Debug\Animals.exe
+D:\01.Телерик Академи\02.Summer\.Net-framework\03.C# OOP\01.Principles OOP Part 1\Animals\obj\Debug\Animals.pdb

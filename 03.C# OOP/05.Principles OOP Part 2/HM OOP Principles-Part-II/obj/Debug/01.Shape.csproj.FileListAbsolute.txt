@@ -1,0 +1,9 @@
+D:\01.Телерик Академи\01.Spring\04.ООП\06.Принципи на ООП - част II\HM OOP Principles-Part-II\HM OOP Principles-Part-II\bin\Debug\HM OOP Principles-Part-II.exe.config
+D:\01.Телерик Академи\01.Spring\04.ООП\06.Принципи на ООП - част II\HM OOP Principles-Part-II\HM OOP Principles-Part-II\obj\Debug\HM OOP Principles-Part-II.exe
+D:\01.Телерик Академи\01.Spring\04.ООП\06.Принципи на ООП - част II\HM OOP Principles-Part-II\HM OOP Principles-Part-II\obj\Debug\HM OOP Principles-Part-II.pdb
+C:\Users\elek\Desktop\HW_Ivan.Dimitrov.bg_Principi-na-OOP---chast-II_2013-10-29_23-30\HM OOP Principles-Part-II\HM OOP Principles-Part-II\bin\Debug\HM OOP Principles-Part-II.exe.config
+C:\Users\elek\Desktop\HW_Ivan.Dimitrov.bg_Principi-na-OOP---chast-II_2013-10-29_23-30\HM OOP Principles-Part-II\HM OOP Principles-Part-II\obj\Debug\HM OOP Principles-Part-II.exe
+C:\Users\elek\Desktop\HW_Ivan.Dimitrov.bg_Principi-na-OOP---chast-II_2013-10-29_23-30\HM OOP Principles-Part-II\HM OOP Principles-Part-II\obj\Debug\HM OOP Principles-Part-II.pdb
+D:\01.Телерик Академи\02.Summer\.Net-framework\03.C# OOP\05.Principles OOP Part 2\HM OOP Principles-Part-II\bin\Debug\HM OOP Principles-Part-II.exe.config
+D:\01.Телерик Академи\02.Summer\.Net-framework\03.C# OOP\05.Principles OOP Part 2\HM OOP Principles-Part-II\obj\Debug\HM OOP Principles-Part-II.exe
+D:\01.Телерик Академи\02.Summer\.Net-framework\03.C# OOP\05.Principles OOP Part 2\HM OOP Principles-Part-II\obj\Debug\HM OOP Principles-Part-II.pdb

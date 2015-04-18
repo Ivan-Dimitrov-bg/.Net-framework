@@ -1,0 +1,11 @@
+D:\01.Телерик Академи\01.Spring\04.ООП\06.Принципи на ООП - част II\HM OOP Principles-Part-II\02.Accounts\bin\Debug\02.Accounts.exe.config
+D:\01.Телерик Академи\01.Spring\04.ООП\06.Принципи на ООП - част II\HM OOP Principles-Part-II\02.Accounts\bin\Debug\02.Accounts.exe
+D:\01.Телерик Академи\01.Spring\04.ООП\06.Принципи на ООП - част II\HM OOP Principles-Part-II\02.Accounts\bin\Debug\02.Accounts.pdb
+D:\01.Телерик Академи\01.Spring\04.ООП\06.Принципи на ООП - част II\HM OOP Principles-Part-II\02.Accounts\obj\Debug\02.Accounts.exe
+D:\01.Телерик Академи\01.Spring\04.ООП\06.Принципи на ООП - част II\HM OOP Principles-Part-II\02.Accounts\obj\Debug\02.Accounts.pdb
+C:\Users\elek\Desktop\HW_Ivan.Dimitrov.bg_Principi-na-OOP---chast-II_2013-10-29_23-30\HM OOP Principles-Part-II\02.Accounts\bin\Debug\02.Accounts.exe.config
+C:\Users\elek\Desktop\HW_Ivan.Dimitrov.bg_Principi-na-OOP---chast-II_2013-10-29_23-30\HM OOP Principles-Part-II\02.Accounts\obj\Debug\02.Accounts.exe
+C:\Users\elek\Desktop\HW_Ivan.Dimitrov.bg_Principi-na-OOP---chast-II_2013-10-29_23-30\HM OOP Principles-Part-II\02.Accounts\obj\Debug\02.Accounts.pdb
+C:\Users\elek\Desktop\HW_Ivan.Dimitrov.bg_Principi-na-OOP---chast-II_2013-10-29_23-30\HM OOP Principles-Part-II\02.Accounts\bin\Debug\02.Accounts.exe
+C:\Users\elek\Desktop\HW_Ivan.Dimitrov.bg_Principi-na-OOP---chast-II_2013-10-29_23-30\HM OOP Principles-Part-II\02.Accounts\bin\Debug\02.Accounts.pdb
+C:\Users\elek\Desktop\HW_Ivan.Dimitrov.bg_Principi-na-OOP---chast-II_2013-10-29_23-30\HM OOP Principles-Part-II\02.Accounts\obj\Debug\02.Accounts.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\01.Телерик Академи\01.Spring\04.ООП\2014\05.Принципи на ООП - част I\01.OOPPrinciplesPart1\02.Human\bin\Debug\02.Human.exe.config
+D:\01.Телерик Академи\01.Spring\04.ООП\2014\05.Принципи на ООП - част I\01.OOPPrinciplesPart1\02.Human\bin\Debug\02.Human.exe
+D:\01.Телерик Академи\01.Spring\04.ООП\2014\05.Принципи на ООП - част I\01.OOPPrinciplesPart1\02.Human\bin\Debug\02.Human.pdb
+D:\01.Телерик Академи\01.Spring\04.ООП\2014\05.Принципи на ООП - част I\01.OOPPrinciplesPart1\02.Human\obj\Debug\02.Human.exe
+D:\01.Телерик Академи\01.Spring\04.ООП\2014\05.Принципи на ООП - част I\01.OOPPrinciplesPart1\02.Human\obj\Debug\02.Human.pdb

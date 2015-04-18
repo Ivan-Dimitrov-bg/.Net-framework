@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Shape", "HM OOP Principles-Part-II\01.Shape.csproj", "{0B500B6A-4F56-4F31-A12D-F3073624F928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Accounts", "02.Accounts\02.Accounts.csproj", "{F234EB08-D177-4B68-AAAA-3CDEB6413668}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Interest", "03.Interest\03.Interest.csproj", "{04B8F86B-B017-40E3-9DE1-DF2D3FF6F217}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B500B6A-4F56-4F31-A12D-F3073624F928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B500B6A-4F56-4F31-A12D-F3073624F928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B500B6A-4F56-4F31-A12D-F3073624F928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B500B6A-4F56-4F31-A12D-F3073624F928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F234EB08-D177-4B68-AAAA-3CDEB6413668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F234EB08-D177-4B68-AAAA-3CDEB6413668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F234EB08-D177-4B68-AAAA-3CDEB6413668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F234EB08-D177-4B68-AAAA-3CDEB6413668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04B8F86B-B017-40E3-9DE1-DF2D3FF6F217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B8F86B-B017-40E3-9DE1-DF2D3FF6F217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B8F86B-B017-40E3-9DE1-DF2D3FF6F217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B8F86B-B017-40E3-9DE1-DF2D3FF6F217}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\01.Телерик Академи\01.Spring\04.ООП\06.Принципи на ООП - част II\HM OOP Principles-Part-II\HM OOP Principles-Part-II\bin\Debug\HM OOP Principles-Part-II.exe.config
+D:\01.Телерик Академи\01.Spring\04.ООП\06.Принципи на ООП - част II\HM OOP Principles-Part-II\HM OOP Principles-Part-II\bin\Debug\HM OOP Principles-Part-II.exe
+D:\01.Телерик Академи\01.Spring\04.ООП\06.Принципи на ООП - част II\HM OOP Principles-Part-II\HM OOP Principles-Part-II\bin\Debug\HM OOP Principles-Part-II.pdb
+D:\01.Телерик Академи\01.Spring\04.ООП\06.Принципи на ООП - част II\HM OOP Principles-Part-II\HM OOP Principles-Part-II\obj\Debug\HM OOP Principles-Part-II.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\01.Spring\04.ООП\06.Принципи на ООП - част II\HM OOP Principles-Part-II\HM OOP Principles-Part-II\obj\Debug\HM OOP Principles-Part-II.exe
+D:\01.Телерик Академи\01.Spring\04.ООП\06.Принципи на ООП - част II\HM OOP Principles-Part-II\HM OOP Principles-Part-II\obj\Debug\HM OOP Principles-Part-II.pdb
