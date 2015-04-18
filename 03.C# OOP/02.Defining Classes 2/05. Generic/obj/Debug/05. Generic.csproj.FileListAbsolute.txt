@@ -1,0 +1,12 @@
+D:\Homeworks\OOP\ClassesTwo\05. Generic\bin\Debug\_05.Generic.exe.config
+D:\Homeworks\OOP\ClassesTwo\05. Generic\bin\Debug\_05.Generic.exe
+D:\Homeworks\OOP\ClassesTwo\05. Generic\bin\Debug\_05.Generic.pdb
+D:\Homeworks\OOP\ClassesTwo\05. Generic\obj\Debug\05. Generic.csprojResolveAssemblyReference.cache
+D:\Homeworks\OOP\ClassesTwo\05. Generic\obj\Debug\_05.Generic.exe
+D:\Homeworks\OOP\ClassesTwo\05. Generic\obj\Debug\_05.Generic.pdb
+D:\Homeworks\OOP\02. Classes-Part-II\05. Generic\bin\Debug\_05.Generic.exe.config
+D:\Homeworks\OOP\02. Classes-Part-II\05. Generic\bin\Debug\_05.Generic.exe
+D:\Homeworks\OOP\02. Classes-Part-II\05. Generic\bin\Debug\_05.Generic.pdb
+D:\Homeworks\OOP\02. Classes-Part-II\05. Generic\obj\Debug\05. Generic.csprojResolveAssemblyReference.cache
+D:\Homeworks\OOP\02. Classes-Part-II\05. Generic\obj\Debug\_05.Generic.exe
+D:\Homeworks\OOP\02. Classes-Part-II\05. Generic\obj\Debug\_05.Generic.pdb

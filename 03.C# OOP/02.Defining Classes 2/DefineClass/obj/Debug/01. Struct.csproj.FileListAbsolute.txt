@@ -1,0 +1,3 @@
+D:\Homeworks\OOP\02. Classes-Part-II\DefineClass\bin\Debug\DefineClass.exe.config
+D:\Homeworks\OOP\02. Classes-Part-II\DefineClass\obj\Debug\DefineClass.exe
+D:\Homeworks\OOP\02. Classes-Part-II\DefineClass\obj\Debug\DefineClass.pdb

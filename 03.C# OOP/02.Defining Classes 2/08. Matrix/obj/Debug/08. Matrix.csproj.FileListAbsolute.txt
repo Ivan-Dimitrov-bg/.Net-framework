@@ -1,0 +1,7 @@
+D:\Homeworks\OOP\ClassesTwo\08. Matrix\bin\Debug\_08.Matrix.exe.config
+D:\Homeworks\OOP\02. Classes-Part-II\08. Matrix\bin\Debug\_08.Matrix.exe.config
+D:\Homeworks\OOP\02. Classes-Part-II\08. Matrix\bin\Debug\_08.Matrix.exe
+D:\Homeworks\OOP\02. Classes-Part-II\08. Matrix\bin\Debug\_08.Matrix.pdb
+D:\Homeworks\OOP\02. Classes-Part-II\08. Matrix\obj\Debug\08. Matrix.csprojResolveAssemblyReference.cache
+D:\Homeworks\OOP\02. Classes-Part-II\08. Matrix\obj\Debug\_08.Matrix.exe
+D:\Homeworks\OOP\02. Classes-Part-II\08. Matrix\obj\Debug\_08.Matrix.pdb

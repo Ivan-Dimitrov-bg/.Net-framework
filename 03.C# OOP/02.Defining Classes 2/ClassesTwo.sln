@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Struct", "DefineClass\01. Struct.csproj", "{FFC5B657-FED7-46E8-A4F3-9AFEEFAFF97A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Generic", "05. Generic\05. Generic.csproj", "{BA1D62FB-6227-4BC0-8CB7-667BDAB41E38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Matrix", "08. Matrix\08. Matrix.csproj", "{11E19C60-3916-4CD2-A1B1-4A7707670C7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFC5B657-FED7-46E8-A4F3-9AFEEFAFF97A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC5B657-FED7-46E8-A4F3-9AFEEFAFF97A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC5B657-FED7-46E8-A4F3-9AFEEFAFF97A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC5B657-FED7-46E8-A4F3-9AFEEFAFF97A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA1D62FB-6227-4BC0-8CB7-667BDAB41E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA1D62FB-6227-4BC0-8CB7-667BDAB41E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA1D62FB-6227-4BC0-8CB7-667BDAB41E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA1D62FB-6227-4BC0-8CB7-667BDAB41E38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11E19C60-3916-4CD2-A1B1-4A7707670C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E19C60-3916-4CD2-A1B1-4A7707670C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E19C60-3916-4CD2-A1B1-4A7707670C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E19C60-3916-4CD2-A1B1-4A7707670C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
