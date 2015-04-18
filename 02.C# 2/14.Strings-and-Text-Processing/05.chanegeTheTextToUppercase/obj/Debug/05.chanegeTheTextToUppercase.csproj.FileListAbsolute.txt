@@ -1,0 +1,4 @@
+D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\05.chanegeTheTextToUppercase\bin\Debug\05.chanegeTheTextToUppercase.exe
+D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\05.chanegeTheTextToUppercase\bin\Debug\05.chanegeTheTextToUppercase.pdb
+D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\05.chanegeTheTextToUppercase\obj\Debug\05.chanegeTheTextToUppercase.exe
+D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\05.chanegeTheTextToUppercase\obj\Debug\05.chanegeTheTextToUppercase.pdb

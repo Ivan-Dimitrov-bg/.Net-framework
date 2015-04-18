@@ -1,0 +1,4 @@
+D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\13.reversesTheWord\bin\Debug\13.reversesTheWord.exe
+D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\13.reversesTheWord\bin\Debug\13.reversesTheWord.pdb
+D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\13.reversesTheWord\obj\Debug\13.reversesTheWord.exe
+D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\13.reversesTheWord\obj\Debug\13.reversesTheWord.pdb

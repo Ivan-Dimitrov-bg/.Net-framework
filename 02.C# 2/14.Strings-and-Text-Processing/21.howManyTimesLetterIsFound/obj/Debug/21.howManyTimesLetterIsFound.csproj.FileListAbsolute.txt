@@ -1,0 +1,4 @@
+D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\21.howManyTimesLetterIsFound\bin\Debug\21.howManyTimesLetterIsFound.exe
+D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\21.howManyTimesLetterIsFound\bin\Debug\21.howManyTimesLetterIsFound.pdb
+D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\21.howManyTimesLetterIsFound\obj\Debug\21.howManyTimesLetterIsFound.exe
+D:\02.Телерик Академи\01.Spring\02.C# програмиране - част II\08.Strings-and-Text-Processing\Strings-and-Text-Processing\21.howManyTimesLetterIsFound\obj\Debug\21.howManyTimesLetterIsFound.pdb
