@@ -1,0 +1,18 @@
+D:\Documents\Programming\C#\High Quality Code\02.CodeFormatting\CodeFormattingHomework\Events\bin\Debug\Events.exe.config
+D:\Documents\Programming\C#\High Quality Code\02.CodeFormatting\CodeFormattingHomework\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+D:\Documents\Programming\C#\High Quality Code\02.CodeFormatting\CodeFormattingHomework\Events\bin\Debug\Events.exe
+D:\Documents\Programming\C#\High Quality Code\02.CodeFormatting\CodeFormattingHomework\Events\bin\Debug\Events.pdb
+D:\Documents\Programming\C#\High Quality Code\02.CodeFormatting\CodeFormattingHomework\Events\bin\Debug\PowerCollections.dll
+D:\Documents\Programming\C#\High Quality Code\02.CodeFormatting\CodeFormattingHomework\Events\bin\Debug\PowerCollections.xml
+D:\Documents\Programming\C#\High Quality Code\02.CodeFormatting\CodeFormattingHomework\Events\obj\Debug\Events.exe
+D:\Documents\Programming\C#\High Quality Code\02.CodeFormatting\CodeFormattingHomework\Events\obj\Debug\Events.pdb
+C:\Users\elek\Desktop\C-Sharp-master\C-Sharp-master\HighQualityCode\CodeFormatting\CodeFormattingHomework\Events\bin\Debug\Events.exe.config
+C:\Users\elek\Desktop\C-Sharp-master\C-Sharp-master\HighQualityCode\CodeFormatting\CodeFormattingHomework\Events\obj\Debug\Events.exe
+C:\Users\elek\Desktop\C-Sharp-master\C-Sharp-master\HighQualityCode\CodeFormatting\CodeFormattingHomework\Events\obj\Debug\Events.pdb
+C:\Users\elek\Desktop\C-Sharp-master\C-Sharp-master\HighQualityCode\CodeFormatting\CodeFormattingHomework\Events\bin\Debug\Events.exe
+C:\Users\elek\Desktop\C-Sharp-master\C-Sharp-master\HighQualityCode\CodeFormatting\CodeFormattingHomework\Events\bin\Debug\Events.pdb
+C:\Users\elek\Desktop\C-Sharp-master\C-Sharp-master\HighQualityCode\CodeFormatting\CodeFormattingHomework\Events\bin\Debug\PowerCollections.xml
+C:\Users\elek\Desktop\C-Sharp-master\C-Sharp-master\HighQualityCode\CodeFormatting\CodeFormattingHomework\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\01.Spring\10.КПК\HM KPK ALL\01.Code-Formatting-Homework\01.Code-Formatting-Homework\CodeFormattingHomeworkCCharp\CodeFormattingHomework\Events\bin\Debug\Events.exe.config
+D:\01.Телерик Академи\01.Spring\10.КПК\HM KPK ALL\01.Code-Formatting-Homework\01.Code-Formatting-Homework\CodeFormattingHomeworkCCharp\CodeFormattingHomework\Events\obj\Debug\Events.exe
+D:\01.Телерик Академи\01.Spring\10.КПК\HM KPK ALL\01.Code-Formatting-Homework\01.Code-Formatting-Homework\CodeFormattingHomeworkCCharp\CodeFormattingHomework\Events\obj\Debug\Events.pdb
