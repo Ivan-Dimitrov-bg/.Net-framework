@@ -1,0 +1,5 @@
+D:\01.Телерик Академи\02.OtherResourses\KPK\TelerikAcademy-master\TelerikAcademy-master\High Quality Code\Homework Assignments\7. High Quality Methods\01. Utils\bin\Debug\Utils.dll
+D:\01.Телерик Академи\02.OtherResourses\KPK\TelerikAcademy-master\TelerikAcademy-master\High Quality Code\Homework Assignments\7. High Quality Methods\01. Utils\bin\Debug\Utils.pdb
+D:\01.Телерик Академи\02.OtherResourses\KPK\TelerikAcademy-master\TelerikAcademy-master\High Quality Code\Homework Assignments\7. High Quality Methods\01. Utils\obj\Debug\01. Utils.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\02.OtherResourses\KPK\TelerikAcademy-master\TelerikAcademy-master\High Quality Code\Homework Assignments\7. High Quality Methods\01. Utils\obj\Debug\Utils.dll
+D:\01.Телерик Академи\02.OtherResourses\KPK\TelerikAcademy-master\TelerikAcademy-master\High Quality Code\Homework Assignments\7. High Quality Methods\01. Utils\obj\Debug\Utils.pdb

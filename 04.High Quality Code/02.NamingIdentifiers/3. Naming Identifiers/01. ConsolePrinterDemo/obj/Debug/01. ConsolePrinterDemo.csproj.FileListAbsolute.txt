@@ -1,0 +1,5 @@
+D:\01.Телерик Академи\02.Summer\.Net-framework\04.High Quality Code\02.HW_Ivan.Dimitrov.bg_Pravilno-imenuvane_2014-05-18_23-30\3. Naming Identifiers\01. ConsolePrinterDemo\bin\Debug\_01.CSharpRefactoring.exe
+D:\01.Телерик Академи\02.Summer\.Net-framework\04.High Quality Code\02.HW_Ivan.Dimitrov.bg_Pravilno-imenuvane_2014-05-18_23-30\3. Naming Identifiers\01. ConsolePrinterDemo\bin\Debug\_01.CSharpRefactoring.pdb
+D:\01.Телерик Академи\02.Summer\.Net-framework\04.High Quality Code\02.HW_Ivan.Dimitrov.bg_Pravilno-imenuvane_2014-05-18_23-30\3. Naming Identifiers\01. ConsolePrinterDemo\obj\Debug\01. ConsolePrinterDemo.csprojResolveAssemblyReference.cache
+D:\01.Телерик Академи\02.Summer\.Net-framework\04.High Quality Code\02.HW_Ivan.Dimitrov.bg_Pravilno-imenuvane_2014-05-18_23-30\3. Naming Identifiers\01. ConsolePrinterDemo\obj\Debug\_01.CSharpRefactoring.exe
+D:\01.Телерик Академи\02.Summer\.Net-framework\04.High Quality Code\02.HW_Ivan.Dimitrov.bg_Pravilno-imenuvane_2014-05-18_23-30\3. Naming Identifiers\01. ConsolePrinterDemo\obj\Debug\_01.CSharpRefactoring.pdb
